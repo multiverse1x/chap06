@@ -11,6 +11,7 @@ public class Ex6_4 {
         System.out.println("subtract = " + result2);
         System.out.println("multiply = " + result3);
         System.out.println("divide = " + result4);
+        System.out.println("바뀐부분");
     }
 }
 
