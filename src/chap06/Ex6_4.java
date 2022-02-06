@@ -13,6 +13,7 @@ public class Ex6_4 {
         System.out.println("divide = " + result4);
         System.out.println("바뀐부분");
         System.out.println("두번째로 바뀐부분");
+        System.out.println("세번째로 바뀐부분");
     }
 }
 
